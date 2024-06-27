@@ -1,1 +1,0 @@
-# Determinant-and-inverse-of-3x3-matrix
